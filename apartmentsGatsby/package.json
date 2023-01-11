@@ -21,7 +21,7 @@
     "gatsby-plugin-typography": "^2.3.18",
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-source-googlemaps-geocoding": "^1.0.0",
-    "gatsby-transformer-remark": "^2.6.42",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.3.6",
     "google-map-react": "^1.1.5",
     "js-search": "^1.4.3",
